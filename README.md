@@ -16,6 +16,19 @@ The primary aim of our application is to capture high-quality photos and videos 
 
 RainbowRayCamera use many media processing algorithms to achieve a beautiful and realistic result
 
+# Screenshots
+
+<div>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical2.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical3.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical4.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical5.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical6.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical7.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketoslavaket/rainbowraycamera/blob/main/images/AppPreviewVertical8.jpg" alt="drawing" width="200"/>
+</div>
+
 # From the Developers
 
 By Ketoslava Ket:
