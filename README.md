@@ -1,10 +1,9 @@
 # RainbowRayCamera
 
-[App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
-
-[App code repository](https://github.com/ketoslavaket/rainbowraycamera-project)
-[App resources repository](https://github.com/ketoslavaket/rainbowraycamera-resources)
-[App web repository](https://github.com/ketoslavaket/rainbowraycamera-web)
+* [App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
+* [App code repository](https://github.com/ketoslavaket/rainbowraycamera-project)
+* [App resources repository](https://github.com/ketoslavaket/rainbowraycamera-resources)
+* [App web repository](https://github.com/ketoslavaket/rainbowraycamera-web)
 
 # About
 
@@ -59,14 +58,14 @@ If you encounter any issues with the application, or if you'd like to suggest an
 
 # Contacts
 
-Website: https://ktvincco.com
-Email: ktvincco@gmail.com
-[RainbowRayCamera Feedback Form](https://ktvincco.com)
-[Write a review on the Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
+* Website: https://ktvincco.com
+* Email: ktvincco@gmail.com
+* [RainbowRayCamera Feedback Form](https://ktvincco.com)
+* [Write a review on the Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.rainbowraycamera)
 
-= Terms of Use and Privacy Policy =
+# Terms of Use and Privacy Policy
 
-By using this application, you agree to our terms of use and privacy policy. You can review them here: [Terms Of Use](https://sites.google.com/view/rainbowraycamera-termsofuse/home) [PrivacyPolicy](https://sites.google.com/view/rainbowraycamera-privacypolicy/home)
+By using this application, you agree to our [Terms Of Use](https://sites.google.com/view/rainbowraycamera-termsofuse/home) and [PrivacyPolicy](https://sites.google.com/view/rainbowraycamera-privacypolicy/home)
 
 
 
